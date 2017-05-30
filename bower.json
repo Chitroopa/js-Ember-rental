@@ -1,0 +1,20 @@
+{
+  "name": "rental",
+  "description": "Small description for rental goes here",
+  "main": "",
+  "authors": [
+    "Chitroopa Manikkavasagam <chitroopa72193@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
